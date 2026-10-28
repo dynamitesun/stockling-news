@@ -1,0 +1,89 @@
+{
+  "updated": "2026-10-28T12:30:00Z",
+  "stories": [
+    {
+      "category": "The Fed",
+      "date": "2026-10-28",
+      "eli5": "Some grown-ups at the Fed decide how expensive it is to borrow money. Prices in stores have been climbing, so last month they made borrowing cost a little more. Today almost everyone thinks they'll wait and keep it the same.",
+      "grown": "The Fed announces its decision at 2 p.m. ET. The federal funds rate sits at 3.75%–4.00% after a quarter-point hike in September, and markets put roughly 90% odds on no change today. Most economists expect another hike at the December 9 meeting because inflation is still above the 2% target.",
+      "mood": "watch",
+      "order": 1,
+      "source": "Raisin / Yahoo Finance",
+      "title": "The Fed decides on interest rates today",
+      "url": "https://www.raisin.com/en-us/news/pre-fomc-preview-positioning-cash-october-2026/",
+      "word": "Federal funds rate",
+      "wordDef": "The overnight rate banks charge each other. Mortgage, car-loan and credit-card rates tend to follow it.",
+      "id": "2026-10-28-1"
+    },
+    {
+      "category": "Earnings",
+      "date": "2026-10-28",
+      "eli5": "Four times a year, big companies tell everyone how much they sold and how much they kept. Tonight two giants that run search, email and computer clouds share their scores. People mostly want to know if all the money they spend building AI is paying off.",
+      "grown": "Alphabet and Microsoft report after the close; Amazon follows Thursday. Big AI names have often sold off even on strong results because of worries about huge capital spending. Alphabet has guided to $180–190 billion of capex this year. Watch cloud growth versus spending.",
+      "mood": "watch",
+      "order": 2,
+      "source": "TheStreet Pro",
+      "title": "Microsoft and Alphabet show their report cards tonight",
+      "url": "https://pro.thestreet.com/market-commentary/big-tech-earnings-the-fed-and-iran-are-in-play-as-the-market-tries-to-recover",
+      "word": "Capex",
+      "wordDef": "Capital expenditure: money spent on long-lasting things like data centers and chips.",
+      "id": "2026-10-28-2"
+    },
+    {
+      "category": "Markets",
+      "date": "2026-10-28",
+      "eli5": "Last week lots of people got nervous about AI companies and sold their slices of them, so prices dropped. On Tuesday they calmed down a bit and prices went back up some.",
+      "grown": "Stocks rallied Tuesday as pressure on AI-related names eased. That follows a rough stretch: on October 22 the Nasdaq fell about 2.6% and the S&P 500 about 1.2%, led by tech and communication stocks, while utilities and consumer staples rose. The S&P 500 is still up roughly 12% this year.",
+      "mood": "up",
+      "order": 3,
+      "source": "TheStreet Pro / Tapeboard",
+      "title": "Stocks bounced back on Tuesday",
+      "url": "https://tapeboard.com/blog/market-pulse-2026-10-22",
+      "word": "Defensive stocks",
+      "wordDef": "Companies people need in good times and bad, like utilities and groceries. Investors often hide in them when nervous.",
+      "id": "2026-10-28-3"
+    },
+    {
+      "category": "Prices",
+      "date": "2026-10-28",
+      "eli5": "Oil is what most cars and trucks drink. When people fear a fight near the places that pump oil, they worry there won't be enough, so its price goes up. That can make gas and lots of other things cost more.",
+      "grown": "Oil is trading near its highs (WTI was about $99 last week). The Wall Street Journal reports the US has told Gulf allies to prepare for a short military campaign against Iran after the midterms. Higher oil feeds into inflation, which could push the Fed toward that December hike.",
+      "mood": "up",
+      "order": 4,
+      "source": "TheStreet Pro",
+      "title": "Oil is near its highs because of Iran worries",
+      "url": "https://pro.thestreet.com/market-commentary/big-tech-earnings-the-fed-and-iran-are-in-play-as-the-market-tries-to-recover",
+      "word": "WTI",
+      "wordDef": "West Texas Intermediate, the main US benchmark price for a barrel of crude oil.",
+      "id": "2026-10-28-4"
+    },
+    {
+      "category": "Economy",
+      "date": "2026-10-28",
+      "eli5": "On Thursday the government measures how much more things cost than a year ago. Grown-ups expect about 3.7% more, which is higher than the Fed likes. If it comes in hotter, borrowing might get pricier.",
+      "grown": "September PCE inflation lands Thursday, with consensus near 3.7% year over year (3.1% core), alongside GDP and weekly jobless claims. Claims were last 194,000, near a 57-year low, even though job growth slowed sharply in September.",
+      "mood": "watch",
+      "order": 5,
+      "source": "Yahoo Finance",
+      "title": "Thursday: the Fed's favorite price check",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-markets-week-googl-msft-152700674.html",
+      "word": "PCE",
+      "wordDef": "Personal Consumption Expenditures price index: the inflation gauge the Fed watches most.",
+      "id": "2026-10-28-5"
+    },
+    {
+      "category": "Earnings",
+      "date": "2026-10-28",
+      "eli5": "It's report-card week for lots of famous companies: the online store with brown boxes, a chip maker, a plane maker, phone companies and oil companies. Each one tells how its last three months went.",
+      "grown": "Amazon reports Thursday. Also on deck this week: Intel, Eli Lilly, Boeing, Robinhood, Reddit, PayPal, T-Mobile, Verizon, Chevron, ExxonMobil and Rivian. Stocks move on results versus analyst estimates and on forward guidance.",
+      "mood": "watch",
+      "order": 6,
+      "source": "Yahoo Finance",
+      "title": "A busy week of company report cards",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-markets-week-googl-msft-152700674.html",
+      "word": "EPS",
+      "wordDef": "Earnings per share: a company's profit divided by its number of shares.",
+      "id": "2026-10-28-6"
+    }
+  ]
+}
